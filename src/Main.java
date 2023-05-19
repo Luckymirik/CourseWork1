@@ -43,7 +43,6 @@ public class Main {
         System.out.println("Cумма затрат на зарплаты в месяц " + sum);
         return sum;
     }
-
     public static void minSalary(Employee[] c) {
         int b = 0;
         int min = Integer.MAX_VALUE;
